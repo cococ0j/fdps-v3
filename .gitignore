@@ -11,3 +11,10 @@
 .ctrl
 .DS_Store
 .ipynb_checkpoints/
+extras/metastore_db/seg0/ce1.dat
+*.dat
+*.lck
+*.crc
+*.ctrl
+*.properties
+*.log
